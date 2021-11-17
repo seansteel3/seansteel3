@@ -1,8 +1,8 @@
 ### HELLO!
 
-My name is Sean Steele, and I am an aspiring researcher with interests in immunology, bioinformatics, and statistics.  I am particularly intrigued where data analytics and statistical modeling can shed light into new insights, both within biology and beyond!
+My name is Sean Steele, and I am an aspiring researcher with interests in immunology, genetics, bioinformatics, and statistics.  I am particularly intrigued where data analytics and statistical modeling can shed light into new insights, both within biology and beyond!
 
-Currently I am working in proteomics assay development at RayBiotech Life where I connected my modeling skills in R directly into our workflow, overhauling our optimization process. While I have enjoyed my time in the lab, in the foreseeable future I am looking into expanding the data analytics side of my interests in more detail, both professionally and with my own side projects. 
+Currently I am working in proteomics assay development at RayBiotech Life where I connected my data modeling and prediction skills in R directly into our workflow, overhauling our optimization process. While I have enjoyed my time in the lab, in the foreseeable future I am looking into expanding the data analytics side of my interests in more detail, both professionally and with my own side projects. 
 
 My original training in data analytics is in R during my time at Emory. Since then I have expanded my skill set to include Python and SQL.
 
