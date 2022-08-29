@@ -1,10 +1,10 @@
 ### HELLO!
 
-My name is Sean Steele, and I am an aspiring researcher with interests in immunology, genetics, bioinformatics, and statistics.  I am particularly intrigued where data analytics and statistical modeling can shed light into new insights, both within biology and beyond!
+My name is Sean Steele, and I am an aspiring researcher with interests in immunology, genetics, bioinformatics, and statistics.  I am particularly intrigued by the intersection of statistical modeling and biology, but also by the power of data analytics in shedding light into virtaully any field. 
 
+Post graduation from Emory Univeristy in 2020, I worked at RayBiotech Life as a lead Research Technician. There I applied my statistical modeling skills directectly into our workflow, overhualing our immuno-PCR development process. More recently I have pivoted my career path to focus more on data anlytics.  I am currenlty working as a Data Science Analyst at Softcrylic, where my focus is on ETL engineering and Data Visualizations, as well as machine learning solutions.
 
-For the last year or so I was working at RayBiotech Life my data modeling and prediction skills in R directly into our workflow, overhauling our optimization process. While I enjoyed my time in the lab, I now am working as a data science analyst at Softcrylic. For the foreseable future I am excited to explore my statistical interests in more detail professionally.
-
+Outside of my professional life I also enjoy investigating a myraid of questions with data analytics, including macro-economic trends sourounding oil prices, general stock market dynamics, and COVID-19 population infection dynamics. 
 <!--
 **seansteel3/seansteel3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
