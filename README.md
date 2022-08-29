@@ -1,6 +1,6 @@
 ### HELLO!
 
-My name is Sean Steele, and I am an aspiring researcher with interests in immunology, genetics, bioinformatics, and statistics.  I am particularly intrigued by the intersection of statistical modeling and biology, but also by the power of data analytics in shedding light onto virtually any field. 
+My name is Sean Steele, and I am an aspiring researcher with interests in immunology, genetics, bioinformatics, and statistics.  I am particularly intrigued by the intersection of statistical modeling and biology, but I am also fascinated by the power of data analytics to shed light onto virtually any field. 
 
 Post graduation from Emory University, I worked at RayBiotech Life as a lead Research Technician. There I applied my statistical modeling skills directly into our workflow, overhauling our immuno-PCR development process. More recently I have pivoted my career path to focus more on data analytics.  I am currently working as a Data Science Analyst at Softcrylic, where my focus is on ETL engineering and data visualization, as well as machine learning solutions.
 
